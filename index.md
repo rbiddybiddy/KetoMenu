@@ -1,7 +1,7 @@
 ## Appetizers
 Cabbage Fritters\
-Eggs, Marinated\
 Greek Salad\
+Marinated Eggs\
 Miso Soup\
 Mushrooms, Morel, Sauteed\
 Roasted Baby Artichokes\
@@ -19,13 +19,13 @@ Jambalaya\
 Lobster\
 Meatloaf\
 Pizza\
-Salmon Loaf, Cakes or Patties\
+Salmon Loaf (or Cakes or Patties)\
 Steak\
 Tof'n'Cheese\
 Tuna Cakes
 
 ## Sides
-Cauliflower Rice
+Cauliflower Rice\
 Kelp Noodles
 
 ## Dressings & Sauces
