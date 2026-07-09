@@ -16,9 +16,11 @@ Crab, whole\
 Fish, Baked\
 Fish, Fancy Baked\
 Jambalaya\
+Kebabs\
 Lobster\
 Meatloaf\
 Pizza\
+Pork Tenderloin in Creamy Dijon Sauce\
 Salmon Loaf (or Cakes or Patties)\
 Steak\
 Tof'n'Cheese\
