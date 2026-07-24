@@ -1,5 +1,5 @@
 ## Appetizers
-Cabbage Fritters\
+[Cabbage Fritters](./recipes/Cabbage%20Fritters)\
 Greek Salad\
 Marinated Eggs\
 Miso Soup\
