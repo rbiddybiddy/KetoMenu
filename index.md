@@ -1,3 +1,5 @@
+[shopping tips](./shopping)
+
 ## Appetizers
 [Cabbage Fritters](./recipes/Cabbage%20Fritters)\
 [Greek Salad](./recipes/Greek%20Salad)\
