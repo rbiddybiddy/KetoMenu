@@ -1,19 +1,23 @@
+﻿---
+layout: default
+---
+
 ## Pork Tenderloin in Creamy Dijon Sauce
 
 4 servings
 
 - 1.3 lb pork tenderloin sliced into 1-inch medallions
-- ½ tsp salt
-- ½ tsp pepper
-- ½ tsp oregano
-- ½ tsp paprika
-- 1½ tbsp oil
+- Â½ tsp salt
+- Â½ tsp pepper
+- Â½ tsp oregano
+- Â½ tsp paprika
+- 1Â½ tbsp oil
 - 2 cloves garlic, crushed
-- ½ cup white wine
-- ½ cup chicken stock
+- Â½ cup white wine
+- Â½ cup chicken stock
 - 1 tbsp Dijon mustard
-- ½ cup heavy cream
-- ¼ tsp Worcestershire sauce
+- Â½ cup heavy cream
+- Â¼ tsp Worcestershire sauce
 - 2 tbsp freshly chopped parsley for garnish
 
 Place pork medallions on a plate.

@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Onion Dip
 
 - 1 tbsp olive oil
@@ -10,4 +14,4 @@
 - 0.5 tsp pepper
 - 0.5 tsp white vinegar
 
-Mince onion and sauté in oil and butter. Add everything else and mix.
+Mince onion and sautÃ© in oil and butter. Add everything else and mix.

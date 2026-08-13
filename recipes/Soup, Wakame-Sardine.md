@@ -1,8 +1,12 @@
+﻿---
+layout: default
+---
+
 ## Soup, Wakame-Sardine
 
 2 servings
 
-- ½ cup dried wakame flakes
+- Â½ cup dried wakame flakes
 - 1 tin sardines
 - sesame oil & soy sauce to taste
 

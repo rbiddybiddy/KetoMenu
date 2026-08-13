@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 | item | source | brand | note |
 | --- | --- | --- | --- |
 | bacon | Trillium |  |  |

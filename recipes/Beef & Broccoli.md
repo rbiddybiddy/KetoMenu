@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Beef & Broccoli
 
 4 servings
@@ -21,7 +25,7 @@ Cut the beef into thin 3-inch strips.
 
 Start some rice cooking.
 
-In a small bowl combine soy sauce, brown sugar, ginger, cornstarch and ½ cup water.
+In a small bowl combine soy sauce, brown sugar, ginger, cornstarch and Â½ cup water.
 
 Cook beef in 1 tbsp oil in covered cast-iron pan over med-high heat. Add water as necessary to prevent burning/sticking. Add garlic midway through. When done, set aside and keep warm.
 

@@ -1,4 +1,8 @@
-## Tof’n’Cheese
+﻿---
+layout: default
+---
+
+## Tofâ€™nâ€™Cheese
 
 - 16 oz block of firm tofu
 - 3 oz butter
@@ -8,11 +12,11 @@
 - 1 cup cream (or nut milk)
 - 1 tsp garlic powder
 - 1 tsp Dijon mustard
-- ½ tsp salt
-- ½ tsp pepper
+- Â½ tsp salt
+- Â½ tsp pepper
 - couple big handfuls of broccoli florets
 
-Heat oven to 350º.
+Heat oven to 350Âº.
 
 Drain/dry tofu and cut into short strips. Place in a baking dish. Scatter broccoli florets over it.
 
@@ -20,7 +24,7 @@ Heat butter, cream cheese and cream over medium heat, 5 min until saucy.
 
 Mix in garlic powder, mustard, turmeric, salt and pepper.
 
-Add 1½ cup grated cheese and stir until melted. Pour over tofu.
+Add 1Â½ cup grated cheese and stir until melted. Pour over tofu.
 
 Scatter remaining cheese on top and bake 25-30 min until cheese is golden & bubbly.
 

@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Dressing, Ranch
 
 - 1/2 cup each:

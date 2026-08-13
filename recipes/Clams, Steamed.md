@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Clams, Steamed
 
 - 2 dozen clams

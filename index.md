@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [shopping tips](./shopping)
 
 ## Appetizers

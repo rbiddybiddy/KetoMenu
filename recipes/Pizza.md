@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Pizza
 
 Crust:
@@ -7,7 +11,7 @@ Crust:
 - 3 cloves garlic, pressed
 - 1 tsp oregano
 - 1 tbsp psyllium husk powder
-- ½ cup almond flour
+- Â½ cup almond flour
 
 Sauce:
 - 6 oz can tomato paste
@@ -16,14 +20,14 @@ Sauce:
 - 1 tsp oregano
 - 1 tsp basil
 - 1 tsp salt
-- ¾ cup water
+- Â¾ cup water
 
 Toppings:
 - 8 oz mozzarella, shredded
 - pepperoni
 - anything
 
-Heat oven to 375º.
+Heat oven to 375Âº.
 
 Mix crust ingredients, spread into two pie plates and bake 25 min.
 

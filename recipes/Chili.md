@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Chili
 
 - 3 tbsp oil
@@ -10,7 +14,7 @@
 - 1 tsp salt
 - 15 oz can diced tomatoes
 - 1 lb dry beans, optionally pre-soaked
-- 1 cup water (may need more – adjust)
+- 1 cup water (may need more â€“ adjust)
 
 Brown meat in oil in large pot over med-high heat, 5-10 min.
 

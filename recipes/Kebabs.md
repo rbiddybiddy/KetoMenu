@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Kebabs
 
 4 servings
@@ -5,8 +9,8 @@
 - 1.1 lb ground beef
 - 1 small red onion finely chopped
 - 2 cloves garlic, crushed
-- ½ tsp salt
-- ½ tsp pepper
+- Â½ tsp salt
+- Â½ tsp pepper
 - 1 tsp each:
 	- smoked paprika
 	- cumin
@@ -19,13 +23,13 @@
 	- sliced cherry tomatoes
 	- greek yogurt
 
-Heat oven to 400º.
+Heat oven to 400Âº.
 
 Mix all kebab ingredients in a bowl.
 
 Line a sheet pan with baking parchment and oil it.
 
-Transfer mixture to pan, add another sheet of paper and flatten with a spatula or back of a second tray, to about ½ inch thickness.
+Transfer mixture to pan, add another sheet of paper and flatten with a spatula or back of a second tray, to about Â½ inch thickness.
 
 Remove top layer of paper and use a blunt knife to divide the mixture into 8 strips. Cut about halfway through.
 

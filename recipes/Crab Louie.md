@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Crab Louie
 
 - bed of iceberg lettuce

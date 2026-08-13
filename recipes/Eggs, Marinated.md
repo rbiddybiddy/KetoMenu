@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Eggs, Marinated
 
 - 12 eggs
@@ -13,22 +17,22 @@ marinade options:
 	- 2 cups water
 - dill pickle brine 2 cups
 - sweet mustard marinade
-	- ½ cup mustard
-	- ½ cup vinegar
+	- Â½ cup mustard
+	- Â½ cup vinegar
 	- 1 clove garlic, minced
 	- 1 tsp salt
 	- 1 cup water
 	- 1 tbsp sugar
 - Korean "mayak" style:
-	- ¾ cup soy sauce
-	- ½ cup water
+	- Â¾ cup soy sauce
+	- Â½ cup water
 	- 1 tbsp toasted sesame oil
 	- 4 cloves garlic, minced
 	- 2 green onions, chopped
 	- 1 each red & green chilies if you want some heat
 	- 1 tbsp toasted sesame seeds
 
-Boil the eggs for 8 minutes with the salt & vinegar, which allegedly make them easier to peel. Douse in cold water when they’re done, to prevent overcooking.
+Boil the eggs for 8 minutes with the salt & vinegar, which allegedly make them easier to peel. Douse in cold water when theyâ€™re done, to prevent overcooking.
 
 Meanwhile, mix marinade ingredients in a container that can be covered and put in the fridge.
 

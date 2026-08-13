@@ -1,3 +1,7 @@
+﻿---
+layout: default
+---
+
 ## Crab, whole
 
 Dunk crabs into already-boiling water for 10-15 min. Experiment with the time. Overcooking can lead to an unappetizing ammonia smell.
