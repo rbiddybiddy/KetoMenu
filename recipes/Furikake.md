@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Furikake (dry topping for rice)
 
 - ½ cup sesame seeds

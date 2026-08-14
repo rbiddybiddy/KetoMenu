@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Soup, Miso
 
 4 servings

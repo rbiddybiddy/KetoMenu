@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Salmon Loaf, Cakes or Patties
 
 - 15 oz can salmon

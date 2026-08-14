@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Steak
 
 Follow this chart initially:

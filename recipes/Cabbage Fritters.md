@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Cabbage Fritters
 
 - 16 oz cabbage, shredded

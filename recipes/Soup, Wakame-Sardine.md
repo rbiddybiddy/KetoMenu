@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Soup, Wakame-Sardine
 
 2 servings

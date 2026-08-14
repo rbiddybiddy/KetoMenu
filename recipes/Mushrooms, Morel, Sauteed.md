@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Mushrooms, Morel, Sauteed
 
 - 1-2 cups morel mushrooms

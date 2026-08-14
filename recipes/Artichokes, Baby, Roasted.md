@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ## Artichokes, Baby, Roasted
 
 - 2 baby artichokes

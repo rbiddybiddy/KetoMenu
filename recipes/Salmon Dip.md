@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[← back](../index)
+
+
+
 ### Salmon Dip
 
 - 8 oz cream cheese, at room temp
