@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 ---
 
@@ -6,7 +6,7 @@ layout: default
 
 2 servings
 
-- Â½ cup dried wakame flakes
+- ½ cup dried wakame flakes
 - 1 tin sardines
 - sesame oil & soy sauce to taste
 

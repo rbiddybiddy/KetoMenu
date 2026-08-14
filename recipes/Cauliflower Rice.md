@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 ---
 
@@ -6,7 +6,7 @@ layout: default
 
 Cut half a head of cauliflower into 2" chunks.
 
-Boil over medium heat in Â½" of water.
+Boil over medium heat in ½" of water.
 
 Simmer until soft but not mushy.
 

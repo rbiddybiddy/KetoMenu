@@ -14,4 +14,4 @@ layout: default
 - 0.5 tsp pepper
 - 0.5 tsp white vinegar
 
-Mince onion and sautÃ© in oil and butter. Add everything else and mix.
+Mince onion and sauté in oil and butter. Add everything else and mix.

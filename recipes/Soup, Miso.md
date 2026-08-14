@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 ---
 
@@ -11,11 +11,11 @@ layout: default
 
 - 1/3 cup miso
 - 3 chopped green onions
-- Â½ block firm silken tofu cut in cubes
+- ½ block firm silken tofu cut in cubes
 - sesame oil to taste
 
 Simmer wakame in 3 cups water 5 min.
 
 Meanwhile mix miso with 1 cup water and stir until dissolved (no chunks).
 
-Turn off heat and add all ingredients. Donâ€™t boil; it destroys the nutrients and flavor.
+Turn off heat and add all ingredients. Don't boil; it destroys the nutrients and flavor.

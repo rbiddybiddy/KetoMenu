@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 ---
 
@@ -11,7 +11,7 @@ Crust:
 - 3 cloves garlic, pressed
 - 1 tsp oregano
 - 1 tbsp psyllium husk powder
-- Â½ cup almond flour
+- ½ cup almond flour
 
 Sauce:
 - 6 oz can tomato paste
@@ -20,14 +20,14 @@ Sauce:
 - 1 tsp oregano
 - 1 tsp basil
 - 1 tsp salt
-- Â¾ cup water
+- ¾ cup water
 
 Toppings:
 - 8 oz mozzarella, shredded
 - pepperoni
 - anything
 
-Heat oven to 375Âº.
+Heat oven to 375º.
 
 Mix crust ingredients, spread into two pie plates and bake 25 min.
 
