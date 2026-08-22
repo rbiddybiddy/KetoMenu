@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[shopping tips](./shopping)
+[shopping tips](./shopping)\
+[Oregon seafood guide](./Oregon%20seafood.pdf)
 
 ## Appetizers
 [Cabbage Fritters](./recipes/Cabbage%20Fritters)\
