@@ -30,7 +30,8 @@ layout: default
 [Salmon Loaf (or Cakes or Patties)](./recipes/Salmon%20Loaf,%20Cakes%20or%20Patties)\
 [Steak](./recipes/Steak)\
 [Tof'n'Cheese](./recipes/Tof'n'Cheese)\
-[Tuna Cakes](./recipes/Tuna%20Cakes)
+[Tuna Cakes](./recipes/Tuna%20Cakes)\
+[Tuna Poké](./recipes/Tuna%20Poké)
 
 ## Sides
 [Cauliflower Rice](./recipes/Cauliflower%20Rice)\
