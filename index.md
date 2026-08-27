@@ -2,8 +2,11 @@
 layout: default
 ---
 
-[shopping tips](./shopping)\
-[Oregon seafood guide](./Oregon%20seafood.pdf)
+## Info
+[Shopping list](https://listsgalore.pikapod.net/projects/2/5)\
+[Shopping tips](./shopping)\
+[Oregon seafood guide](./Oregon%20seafood.pdf)\
+[Meat temps](./meat%20temps)
 
 ## Appetizers
 [Cabbage Fritters](./recipes/Cabbage%20Fritters)\
