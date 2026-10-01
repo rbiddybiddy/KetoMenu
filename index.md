@@ -25,6 +25,7 @@ layout: default
 [Crab, whole](./recipes/Crab,%20whole)\
 [Fish, Baked](./recipes/Fish,%20Baked)\
 [Fish, Fancy Baked](./recipes/Fish,%20Fancy%20Baked)\
+[Italianish Homeskillet](./recipes/Italianish%20Homeskillet)\
 [Jambalaya](./recipes/Jambalaya)\
 [Kebabs](./recipes/Kebabs)\
 [Lobster](./recipes/Lobster)\
